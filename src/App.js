@@ -11,7 +11,7 @@ function App() {
       <div className="app">
         <Navbar bg="dark" data-bs-theme="dark">
           <Container>
-            <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+            <Navbar.Brand href="#home">FoodCo</Navbar.Brand>
             <Nav className="me-auto">
               <Nav.Link href="#home">Home</Nav.Link>
               <Nav.Link href="#features">Features</Nav.Link>
@@ -19,11 +19,11 @@ function App() {
             </Nav>
           </Container>
         </Navbar>
-        <h1>This is my heading</h1>
+        <h1>This is my FoodCo page.</h1>
         <Card style={{ width: '18rem' }}>
           <Card.Img variant="top" src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dessert-main-image-molten-cake-0fbd4f2.jpg" />
           <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title>Food Title</Card.Title>
             <Card.Text>
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
@@ -34,7 +34,7 @@ function App() {
         <Card style={{ width: '18rem' }}>
           <Card.Img variant="top" src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dessert-main-image-molten-cake-0fbd4f2.jpg" />
           <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title>Food Title</Card.Title>
             <Card.Text>
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
@@ -45,7 +45,7 @@ function App() {
         <Card style={{ width: '18rem' }}>
           <Card.Img variant="top" src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dessert-main-image-molten-cake-0fbd4f2.jpg" />
           <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title>Food Title</Card.Title>
             <Card.Text>
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
